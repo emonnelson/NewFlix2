@@ -22,8 +22,9 @@
 
 ### App Walkthough GIF
 
+![flixtrailer](https://user-images.githubusercontent.com/39386877/155914823-84648b22-72eb-4780-81f9-2a8f8b28fb04.gif)
+
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-![flixtrailer](https://user-images.githubusercontent.com/39386877/155804890-4f227deb-a02f-4994-9782-af492b5280d9.gif)
 
 
 ### Notes
